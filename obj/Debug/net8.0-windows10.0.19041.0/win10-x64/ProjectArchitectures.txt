@@ -1,0 +1,1 @@
+U:\~\Documents\Visual Studio 2022\Projects\MauiApp1\MauiApp1.csproj;x64
